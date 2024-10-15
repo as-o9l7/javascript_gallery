@@ -6,10 +6,12 @@
     vertical-align: bottom;
   }
   
+
   body {
     display: grid;
     justify-content: center;
-    background-color: #8d6449;
+    background-color: #946b4d;
+    color: #FFF;
   }
   
   img {
